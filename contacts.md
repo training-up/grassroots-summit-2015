@@ -30,6 +30,7 @@
 * [Rails Girls](http://railsgirls.com/)
 * [RailsBridge](http://www.railsbridge.org/)
 * [TechGirlz](http://www.techgirlz.org/)
+* [Teen Tech Girls](http://www.tech-girls.org/)
 * [Trans*H4ck](http://www.transhack.org/)
 * [Women Who Code](https://www.womenwhocode.com/)
 * [Women's Coding Collective](http://thewc.co/)
