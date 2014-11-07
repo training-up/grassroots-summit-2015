@@ -19,3 +19,11 @@
 * Jessica Kerr: interested
 * Joan Touzet: interested
 
+----------------------------------------
+
+* Red Hat
+  * Nick Coghlan has introduced us to Mike Paquin about sponsorship
+* Rackspace
+  * talking to Jesse Noller, but no decision 'til start of 2015
+* Dropbox
+  * trying to make contact
