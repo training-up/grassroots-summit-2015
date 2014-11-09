@@ -27,4 +27,11 @@
 * Rackspace
   * talking to Jesse Noller, but no decision 'til start of 2015
 * Dropbox
-  * trying to make contact
+  * Sarah Charlton forwarded the flyer
+* NCWIT
+  * Lucy Sanders put us in touch with Ruthe Farmer
+  * Their annual meeting is in South Carolina in May - maybe we
+    can ride their coattails instead of going to Denver?
+* Intel
+  * Contacted Brent Gorda - unlikely they'll fund it on the
+    timescale we need.
