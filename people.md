@@ -22,12 +22,20 @@
 
 ----------------------------------------
 
+* Sloan Foundation
+  * Josh Greenberg thinks he can help
+* Moore Foundation
+  * Mailed Chris Mentzel
+* Arnold Foundation
+  * Mailed Stuart Buck
 * Red Hat
   * Nick Coghlan has introduced us to Mike Paquin about sponsorship
+  * Leslie Hawthorn is interested
 * Rackspace
   * talking to Jesse Noller, but no decision 'til start of 2015
 * Dropbox
   * Sarah Charlton forwarded the flyer
+  * Now in touch with Ryan Atkins
 * NCWIT
   * Lucy Sanders put us in touch with Ruthe Farmer
   * Their annual meeting is in South Carolina in May - maybe we
@@ -35,3 +43,5 @@
 * Intel
   * Contacted Brent Gorda - unlikely they'll fund it on the
     timescale we need.
+* Google
+  * Mailed Cat Allman
