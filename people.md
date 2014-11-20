@@ -1,3 +1,16 @@
+I'm helping organize a two-day meeting in May 2015 of people from
+grassroots organizations that are teaching coding skills to people
+from groups that are under-represented in tech (women, LGBT,
+(African/Hispanic/Native American, the disabled, the elderly,
+etc.). The aim is to swap experiences, give each other demo lessons,
+and get some tutorials on non-profit governance, fundraising, and how
+to help people move from coding workshops to engaging in open source
+projects and finding jobs.
+
+We've got $15K in donations lined up already, but need $40K to make
+the whole thing happen.  If you'd be interested in helping support us
+at any level, I'd welcome a chance to chat.
+
 * Melissa Crnic (Ladies Learning Code): would attend
 * Lukas Blakk (Ascend): would attend
 * Naomi Ceder: would attend
@@ -17,17 +30,19 @@
     Python-related, as I attended Hackbright Academy (they teach
     Python to women, but are for-profit) and know a guy on the DSF
     board.
+* Cindee Madison (board of NumFOCUS): interested in helping organize
 * Jessica Kerr: interested
 * Joan Touzet: interested
 
 ----------------------------------------
 
 * Sloan Foundation
-  * Josh Greenberg thinks he can help
+  * Josh Greenberg can kick in $10K once we have someone who can catch it
 * Moore Foundation
   * Mailed Chris Mentzel
 * Arnold Foundation
   * Mailed Stuart Buck
+  * Laura Buck came through with $5K
 * Red Hat
   * Nick Coghlan has introduced us to Mike Paquin about sponsorship
   * Leslie Hawthorn is interested
@@ -45,3 +60,5 @@
     timescale we need.
 * Google
   * Mailed Cat Allman
+* Canonical
+  * Steve Holden put us in touch with Jono Bacon
