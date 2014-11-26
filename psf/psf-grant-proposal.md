@@ -22,7 +22,7 @@ support will be expected to pay all of their other costs.)
 
 Grant Beneficiaries: We are an ad hoc group involved in groups of this
 kind who would like to build ties and help others do so as well.  We
-include the Greg Wilson (Executive Director of the Software Carpentry
+include Greg Wilson (Executive Director of the Software Carpentry
 Foundation), Cindee Madison (leading the Women in Technology program
 at NumFOCUS), Lukas Blakk (founder of the Ascend project), Leigh
 Honeywell (of the Ada Initiative), Mike Hoye (Firefox Engineering
