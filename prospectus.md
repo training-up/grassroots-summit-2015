@@ -1,25 +1,32 @@
-All over the world, grassroots groups are trying to fix the tech sector’s diversity problem. Whether they focus on women, racial minorities, the elderly, LGBT individuals, or people with disabilities, their goal is to foster greater diversity in tech.
+We are organizing a meeting in Boulder in June 2015 of grassroots
+groups that are trying to fix the tech sector’s diversity problem.
+Whether they focus on women, racial minorities, the elderly, LGBT
+individuals, or people with disabilities, their goal is to give people
+the skills, connections, and mentoring they need to get in and stay
+in.
 
-We are organizing a meeting in May 2015 to give representatives of these groups a chance to share ideas and make connections through lightning talks, demonstration lessons, and tutorials on non-profit governance, fundraising, and how to help people move from workshops to contributing to open source projects and getting hired.  The organizers include Lukas Blakk (founder of the Ascend project), Leigh Honeywell (of the Ada Initiative), Mike Hoye (Firefox Engineering Community Manager at Mozilla), Cindee Madison (leading the Women in Technology program at NumFOCUS), Elizabeth Patitsas (a graduate student at the University of Toronto), and Greg Wilson (Executive Director of the Software Carpentry Foundation).
+This meeting will give representatives of these groups a chance to
+share ideas and make connections through lightning talks,
+demonstration lessons, and tutorials on non-profit governance,
+fundraising, and how to help people move from workshops to
+contributing to open source projects and getting hired.
 
-We need your help to make this meeting a success.  You can:
+Our goal is to raise $40K to help cover attendees' travel costs.  We
+currently have $15K pledged, and another $12.5K in the works, so we
+were hoping that [NAME] would be willing to support this as well.  We
+think we could do a lot of good by helping people discover that they
+don't need to reinvent all these wheels themselves, and by giving them
+a chance to meet people like you and your colleagues.
 
-* lend a hand with organization,
+If this sounds interesting, we'd welcome a chance to chat.
 
-* introduce us to groups that ought to attend,
+Best regards,
+[NAME]
 
-* attend yourself,
-
-* assist in fundraising,
-
-* become a sponsor, or
-
-* connect us with people who can do any or all of the above.
-
-For more information, please mail:
-
-		      summit2015@training-up.org
-
-or visit our website (still very much under construction) at:
-
-			http://training-up.org
+p.s. The organizers include Lukas Blakk (founder of the Ascend
+project), Leigh Honeywell (of the Ada Initiative), Mike Hoye (Firefox
+Engineering Community Manager at Mozilla), Cindee Madison (leading the
+Women in Technology program at NumFOCUS), Elizabeth Patitsas (a
+graduate student at the University of Toronto who is studying the
+effectiveness of programs to increase diversity in tech), and Greg
+Wilson (Executive Director of the Software Carpentry Foundation).
