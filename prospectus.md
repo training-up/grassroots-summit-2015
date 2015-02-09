@@ -23,10 +23,14 @@ If this sounds interesting, we'd welcome a chance to chat.
 Best regards,
 [NAME]
 
-p.s. The organizers include Lukas Blakk (founder of the Ascend
-project), Leigh Honeywell (of the Ada Initiative), Mike Hoye (Firefox
-Engineering Community Manager at Mozilla), Cindee Madison (leading the
-Women in Technology program at NumFOCUS), Elizabeth Patitsas (a
-graduate student at the University of Toronto who is studying the
-effectiveness of programs to increase diversity in tech), and Greg
-Wilson (Executive Director of the Software Carpentry Foundation).
+p.s. The organizers include:
+
+* Dana Bauer (Rackspace)
+* Lukas Blakk (Ascend)
+* Leigh Honeywell (Ada Initiative)
+* Mike Hoye (Mozilla)
+* Christie Koehler (Mozilla)
+* Cindee Madison (NumFOCUS)
+* Elizabeth Patitsas (University of Toronto)
+* Camille Scott (Michigan State University)
+* Greg Wilson (Software Carpentry Foundation)
