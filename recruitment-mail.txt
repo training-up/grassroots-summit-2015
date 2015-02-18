@@ -4,13 +4,16 @@ Hello organizers of (ORG),
 
 I'd like to invite you to a summit meeting in Boulder this June for grassroots organizations that teach computing to groups that are underrepresented in tech, including girls and women, LGBT+ individuals, people of color, the disabled, the elderly, and the economically disadvantaged. The aim is to swap experiences, give each other demo lessons, and get some tutorials on non-profit governance, fundraising, and transitioning learners to open source and employment.
 
-We're aiming for about 40 attendees in order to ensure a lively, friendly, meeting. We have already raised $15K in sponsorship for travel support, and have another $12.5K in the pipeline. If you or somebody else from your organization would like to attend, please let us know, and if you have any questions or suggestions, please contact us at summit2015@training-up.org.
+We're aiming for about 40 attendees in order to ensure a lively, friendly, meeting. We have already raised $17.5K for travel support, and have more in the pipeline. If you or somebody else from your organization would like to attend, please let us know, and if you have any questions or suggestions, please contact us at summit2015@training-up.org.
 
 Thanks for your time - we look forward to hearing from you.
 
-Elizabeth Patitsas (PhD student, University of Toronto)
-Lukas Blakk (Founder, Ascend Project)
-Leigh Honeywell (Ada Initiative)
-Mike Hoye (Firefox Engineering Community Manager at Mozilla)
-Cindee Madison (Women in Technology, NumFOCUS)
-Greg Wilson (Executive Director, Software Carpentry Foundation)
+* Dana Bauer (Rackspace)
+* Lukas Blakk (Ascend)
+* Leigh Honeywell (Ada Initiative)
+* Mike Hoye (Mozilla)
+* Christie Koehler (Mozilla)
+* Cindee Madison (NumFOCUS)
+* Elizabeth Patitsas (University of Toronto)
+* Camille Scott (Michigan State University)
+* Greg Wilson (Software Carpentry Foundation)
