@@ -1,0 +1,22 @@
+Hi,
+
+We are organizing a two-day meeting in June for organizers of grassroots learn-to-code projects that are focusing on under-represented groups, including women, people of color, LGBT+, the disabled, and the economically disadvantaged.  The vision for this conference is to deepen the impact of existing efforts by sharing best practices to build capacity in fundraising, non-profit governance, teaching techniques, and community building.
+
+We have sponsorship from the Arnold and Sloan Foundations, the Python Software Foundation, and Mozilla to cover basic event costs, but are still hoping to bring in a bit more - we the meeting to be as diverse as the groups these organizations serve, and many of their founders can only attend if their travel costs are subsidized.  A $1000 sponsorship would cover the participation costs for one participant, and larger support would ensure as many diverse perspectives as possible for this unique convening.
+
+In exchange, we would be pleased to recognize your support in all announcements and materials, to invite someone from your organization to attend the summit, and to introduce you to the groups that are attending.
+
+Thank you for your attention and consideration - we look forward to talking about how you can be a recognized partner in this conversation.
+
+Thanks in advance,
+
+* Elizabeth Patitsas (University of Toronto)
+* Greg Wilson (Software Carpentry Foundation)
+* Lukas Blakk (Ascend)
+* Mike Hoye (Mozilla)
+* Leigh Honeywell (Ada Initiative)
+* Michael Nobleza (Yes We Code)
+* Cindee Madison (NumFOCUS)
+* Camille Scott (Michigan State University)
+* Dana Bauer (Rackspace)
+* Christie Koehler (Mozilla)
