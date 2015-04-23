@@ -1,6 +1,6 @@
 confirmed
 [T] Loretta Cheeks <loretta.cheeks@gmail.com>
-[T] 1 (possibly 2) from Black Girls CODE (TBD), contact is Reilly Ellis <reilly@blackgirlscode.org>, we'll provide support for 1
+[T] 1 (possibly 2) from Black Girls CODE (TBD), contact is Hope Lehman <hope@blackgirlscode.org>, we'll provide support for 1
 [T] Tiffany Price <tiffany@kaporcenter.org>
 [T] Michael Nobleza <michael@yeswecode.org>
 [T] Beth Rosenberg <bbethr@gmail.com>
@@ -8,26 +8,47 @@ confirmed
 [T] Shannon Turner <shannon.v.turner@gmail.com>
 [T] Rosario Robinson <rosario.robinson@gmail.com>
 [T] Kathryn Barrett <kathryn@ladieslearningcode.com>
+[T] Kronda Adair <hello@kronda.com>
+[T] Leigh Ann DeLyser <leighann@csnyc.org>
+[T] Kalimah Priforce <kapriforce@gmail.com> +1 Kelley Nayo <kelley@qeyno.com>
+[T] Melissa Pierce <contact@cwdevs.com>
+[T] Aliya Rahman <aliya@codeforprogress.org>
+[T] Andromeda Yelton <andromeda.yelton@gmail.com>
+[T] Elizabeth Patitsas <patitsas@cs.toronto.edu>
 [?] Christie Koehler <ck@christi3k.net>
+[-] Emily Hosoya <emilyhosoya@gmail.com>
 [-] Ruthe Farmer <ruthe.farmer@ncwit.org>
 [-] Mike Hoye <mhoye@mozilla.com>
+[-] Dino Anderson Rodino <rodino.anderson@gmail.com>
+---
+17 or 18/21
 
 pending
-* Kronda Adair (T) re-mailed 2015-04-16
-* Melissa Pierce (T) re-mailed 2015-04-16
-* Leigh Ann DeLyser (T) re-mailed 2015-04-16
-* Andromeda Yelton (T) re-mailed 2015-04-16
-* Kalimah Priforce (T) re-mailed 2015-04-16
-* Michelle Jennings (T) re-mailed 2015-04-16
-* Aliya Rahman (T) re-mailed 2015-04-16
-* Erin Hoffman (T) mailed 2015-04-16
-* Elizabeth Patitsas (T) mailed 2015-04-16
-* Dino Anderson (T) mailed 2015-04-16
-* James Iveniuk (T) mailed 2015-04-16
-* Elsa Rodriguez mailed 2015-04-16
-* Kinsey Ann Durham mailed 2015-04-16
-* Emily Hosoya mailed 2015-04-16
-* Susan Sim mailed 2015-04-16
-* Jackie Kazil mailed 2015-04-16
-* Camille Scott mailed 2015-04-16
-* Greg Wilson
+[T] Erin Hoffman mailed 2015-04-16
+[-] Elsa Rodriguez mailed 2015-04-16
+[-] Kinsey Ann Durham mailed 2015-04-16
+[-] Jackie Kazil mailed 2015-04-16
+[-] Camille Scott mailed 2015-04-16
+[-] Greg Wilson
+---
+1/6
+
+not yet invited
+---------------
+[T] Brittney Oberfeld <brittneyoberfeld@gmail.com>
+[?] Brandon Nicholson <brandon@hiddengeniusproject.org>
+[?] Alberto Avalos <alberto@loftinstitute.org>
+[?] Kimberly Scott <kascott3@asu.edu>, Michael Zirulnik <mzirulni@asu.edu>, Gabriel Escontrias <Gabriel.Escontrias@asu.edu>
+
+local
+-----
+Nilka Thomas <nilka@google.com>
+Ben Bayer <benbayer@google.com>
+
+declined
+* Michelle Jennings : re-mailed 2015-04-16, offered travel support, declined because even with that she couldn't afford it (?)
+* Susan Sim mailed 2015-04-16 - declined 2015-04-20
+* James Iveniuk mailed 2015-04-21 - has a new job
+
+notes
+* original contact at Black Girls CODE was Reilly Ellis <reilly@blackgirlscode.org>
