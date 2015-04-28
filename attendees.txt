@@ -1,6 +1,5 @@
 confirmed
 [T] Loretta Cheeks <loretta.cheeks@gmail.com>
-[T] 1 (possibly 2) from Black Girls CODE (TBD), contact is Hope Lehman <hope@blackgirlscode.org>, we'll provide support for 1
 [T] Tiffany Price <tiffany@kaporcenter.org>
 [T] Michael Nobleza <michael@yeswecode.org>
 [T] Beth Rosenberg <bbethr@gmail.com>
@@ -15,27 +14,24 @@ confirmed
 [T] Aliya Rahman <aliya@codeforprogress.org>
 [T] Andromeda Yelton <andromeda.yelton@gmail.com>
 [T] Elizabeth Patitsas <patitsas@cs.toronto.edu>
+[T] Laurin Hodge
+[T] Jackie Kazil mailed 2015-04-16
+[T] Brittney Oberfeld <brittneyoberfeld@gmail.com>
 [?] Christie Koehler <ck@christi3k.net>
+[-] Kinsey Ann Durham mailed 2015-04-16
+[-] Camille Scott mailed 2015-04-16
 [-] Emily Hosoya <emilyhosoya@gmail.com>
 [-] Ruthe Farmer <ruthe.farmer@ncwit.org>
 [-] Mike Hoye <mhoye@mozilla.com>
 [-] Dino Anderson Rodino <rodino.anderson@gmail.com>
----
-17 or 18/21
 
 pending
 [T] Erin Hoffman mailed 2015-04-16
 [-] Elsa Rodriguez mailed 2015-04-16
-[-] Kinsey Ann Durham mailed 2015-04-16
-[-] Jackie Kazil mailed 2015-04-16
-[-] Camille Scott mailed 2015-04-16
 [-] Greg Wilson
----
-1/6
 
 not yet invited
 ---------------
-[T] Brittney Oberfeld <brittneyoberfeld@gmail.com>
 [?] Brandon Nicholson <brandon@hiddengeniusproject.org>
 [?] Alberto Avalos <alberto@loftinstitute.org>
 [?] Kimberly Scott <kascott3@asu.edu>, Michael Zirulnik <mzirulni@asu.edu>, Gabriel Escontrias <Gabriel.Escontrias@asu.edu>
@@ -49,6 +45,7 @@ declined
 * Michelle Jennings : re-mailed 2015-04-16, offered travel support, declined because even with that she couldn't afford it (?)
 * Susan Sim mailed 2015-04-16 - declined 2015-04-20
 * James Iveniuk mailed 2015-04-21 - has a new job
+* 1 (possibly 2) from Black Girls CODE (TBD), contact is Hope Lehman <hope@blackgirlscode.org>
 
 notes
 * original contact at Black Girls CODE was Reilly Ellis <reilly@blackgirlscode.org>
