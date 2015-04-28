@@ -1,3 +1,8 @@
+http://kronda.com
+http://karveldigital.com
+http://twitter.com/kronda
+http://twitter.com/karveldigital
+
 Co-lead of the six week Ascend Project, teaching people in traditionally marginalized groups to become open source contributors. http://ascendproject.org
 
 Participating in Open source/Free/Libre software communities, Basic Computing (shell, OS, source control), version control, WordPress 
